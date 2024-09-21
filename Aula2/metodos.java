@@ -151,7 +151,7 @@ class respostaMetodo {
 
             // Exibe a verificação
             System.out.println("Este número: " + n1 + " é " + Positivo_Negativo.positivo_negativo_verificacao());
-            
+
         } else if (respostaMet == 2) { // Média Aritmética
 
             System.out.println("Escreva o Primeiro Número:");
