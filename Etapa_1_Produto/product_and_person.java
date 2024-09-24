@@ -1,4 +1,4 @@
-package Aula1;
+package Etapa_1_Produto;
 
 // Importa o Scanner para registrar os dados do usuário
 import java.util.Scanner;

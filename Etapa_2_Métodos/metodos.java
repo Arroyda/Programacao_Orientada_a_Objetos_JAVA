@@ -1,4 +1,4 @@
-package Aula2;
+package Etapa_2_Métodos;
 
 import java.util.Scanner; // Importa a classe Scanner para entrada de dados
 import java.lang.Math; // Importa a classe Math para operações matemáticas

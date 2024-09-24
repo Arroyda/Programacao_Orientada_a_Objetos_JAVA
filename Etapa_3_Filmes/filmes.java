@@ -1,4 +1,4 @@
-package Aula3;
+package Etapa_3_Filmes;
 
 import java.util.Scanner;
 

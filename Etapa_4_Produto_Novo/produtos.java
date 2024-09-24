@@ -1,4 +1,4 @@
-package Aula4;
+package Etapa_4_Produto_Novo;
 
 import java.util.Calendar; // Importa a classe Calendar para manipulação de datas
 import java.util.Scanner; // Importa a classe Scanner para entrada de dados

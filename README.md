@@ -35,6 +35,7 @@ Ferramentas utilizadas e bibliotecas
 * **Versão 1.0** Inicio a Etapa 1. *18/09/2024*
 * **Versão 1.1** - Inicio a Etapa 2 e Finalização Etapa 1 e 2. *21/09/2024*
 * **Versão 1.2** - Atualização na Etapa 1 e 2, Inicio e Finalização da Etapa 3 e 4 . *21/09/2024*
+* **Versão 1.3** - Atualização em algumas Etapas, Inicio e Finalização da Etapa 5 e 6. *24/09/2024*
 
 
 ## ✒️ Autores
